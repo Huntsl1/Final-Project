@@ -1,0 +1,26 @@
+h1{
+  background: red;
+}
+div{
+  color: white;
+  font-size: 75px;
+  height: 100px;
+}
+section{
+  color: white;
+}
+h2{
+  font-size: 50px;
+}
+
+p{
+  font-size: 25px;
+}
+h3{
+  color: white;
+  background: red;
+  text-decoration: underline;
+}
+Footer{
+  background: white;
+}
