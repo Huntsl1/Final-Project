@@ -1,26 +1,103 @@
-h1{
-  background: red;
+header{
+  color: red;
+  padding-bottom: 30px;
+
 }
-div{
+
+.nav1{
+  color: red;
+  display: inline-block;
+}
+.nav2{
+  display:inline-block;
+  float: right;
+}
+.link{
+  color: white;
+  padding-bottom: 20px;
+  display: inline-block;
+}
+.spring{
+  color: green;
+  font-size: 25px;
+}
+.section1{
+  background: red;
+  border-top: 10px solid orange;
+  padding-top: 100px;
+  padding-left: 400px;
+
+}
+.whole{
+  display: inline-block;
+  /*margin-left: 50px;
+  width: 1000px;*/
+
+}
+
+
+
+
+
+.quicksneakers{
   color: white;
   font-size: 75px;
   height: 100px;
 }
-section{
+.description{
   color: white;
+  border-top: 3px dashed orange;
+  border-bottom:3px dashed orange;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  }
+
+  .price{
+    color: #FFFFFF;
+    font-size: 75px;
+    padding-top: 20px;}
+.section2{
+    color: red;
+    border-bottom: 5px solid #D3D3D3;
+    font-size: 75px;
+    margin-left: 400px;
+    margin-right: 3650px;
+    }
+.shop{
+  background: #d3d3d3;
+  color: black;
+  height: 200px;
+  font-size: 100px;
+  padding-left: 850px;
+  padding-top: 100px;
 }
-h2{
+
+
+
+article{
   font-size: 50px;
+  padding-left: 400px;
+  padding-top: 40px;
 }
 
 p{
-  font-size: 25px;
-}
-h3{
+  font-size: 25px;}
+
+.section3{
   color: white;
   background: red;
   text-decoration: underline;
+  padding-left: 400px;}
+
+.sneaker{
+  Color: white;
+  font-size: 75px;
+}
+.season{
+  font-size: 25px;
+  color: green;
 }
 Footer{
   background: white;
+  color: gray;
 }
